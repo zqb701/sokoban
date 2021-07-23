@@ -1,0 +1,9 @@
+CACHE MANIFEST
+#20170832 1407
+copy-init.js
+index.html
+
+
+NETWORK:
+# https://stackoverflow.com/a/28918674/6645399
+*
